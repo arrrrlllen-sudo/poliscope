@@ -2,7 +2,7 @@
 
 一个中文政治经济情景模拟器。从十种现实制度组合出发，逐年观察政策选择对经济与治理指标的影响。
 
-[现有在线网站](https://zh-polity-economy-lab.wholeanchovy16.chatgpt.site/)
+[公开在线体验](https://arrrrlllen-sudo.github.io/poliscope/) · [原 Sites 网站](https://zh-polity-economy-lab.wholeanchovy16.chatgpt.site/)
 
 ## 可以做什么
 
