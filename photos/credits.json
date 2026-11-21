@@ -1,0 +1,62 @@
+{
+  "us": {
+    "title": "纽约 · 曼哈顿",
+    "credit": "Yilei (Jerry) Bao / Unsplash",
+    "license": "Unsplash License",
+    "url": "https://unsplash.com/photos/Zmod14qJWws"
+  },
+  "de": {
+    "title": "法兰克福 · 美因河畔",
+    "credit": "Brett Beutell / Unsplash",
+    "license": "Unsplash License",
+    "url": "https://unsplash.com/photos/3ywuUrg-qng"
+  },
+  "se": {
+    "title": "斯德哥尔摩",
+    "credit": "Emil Widlund / Unsplash",
+    "license": "Unsplash License",
+    "url": "https://unsplash.com/photos/NIJvWGXFjLE"
+  },
+  "fr": {
+    "title": "巴黎 · 埃菲尔铁塔",
+    "credit": "Miraxh Tereziu / Unsplash",
+    "license": "Unsplash License",
+    "url": "https://unsplash.com/photos/mhovtr766nk"
+  },
+  "jp": {
+    "title": "东京塔与东京天际线",
+    "credit": "Rebecca Clarke / Unsplash",
+    "url": "https://unsplash.com/photos/8tb1snckwNg",
+    "license": "Unsplash License"
+  },
+  "cn": {
+    "title": "从上海外滩远望浦东",
+    "credit": "Nicolas Jehly / Unsplash",
+    "url": "https://unsplash.com/photos/0p37Ch2LYQc",
+    "license": "Unsplash License"
+  },
+  "in": {
+    "title": "孟买海滨大道天际线",
+    "credit": "Yogesh Rahamatkar / Unsplash",
+    "url": "https://unsplash.com/photos/nQDZOimV-Mg",
+    "license": "Unsplash License"
+  },
+  "sg": {
+    "title": "新加坡滨海湾",
+    "credit": "Jiachen Lin / Unsplash",
+    "url": "https://unsplash.com/photos/btDMKMbA12I",
+    "license": "Unsplash License"
+  },
+  "br": {
+    "title": "圣保罗市区全景",
+    "credit": "Guilherme Madaleno / Unsplash",
+    "url": "https://unsplash.com/photos/AmCj2sJD8p8",
+    "license": "Unsplash License"
+  },
+  "sa": {
+    "title": "利雅得市区全景",
+    "credit": "Stijn te Strake / Unsplash",
+    "url": "https://unsplash.com/photos/rkRYbmPuhOE",
+    "license": "Unsplash License"
+  }
+}
